@@ -1,0 +1,46 @@
+site-falso - online:false
+https://www.alura.com.br - online:true
+https://www.google.com.br - online:true
+https://www.youtube.com.br - online:true
+https://www.alura.com.br - online:true
+https://www.google.com.br - online:true
+https://www.youtube.com.br - online:true
+https://www.alura.com.br - online:true
+https://www.google.com.br - online:true
+https://www.youtube.com.br - online:true
+https://www.alura.com.br - online:true
+https://www.google.com.br - online:true
+https://www.youtube.com.br - online:true
+https://www.alura.com.br - online:true
+https://www.google.com.br - online:true
+https://www.youtube.com.br - online:true
+05/10/2023 14:11:04 - https://www.alura.com.br - online:true
+05/10/2023 14:11:05 - https://www.google.com.br - online:true
+05/10/2023 14:11:05 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:10 - https://www.alura.com.br - online:true
+05/10/2023 14:11:10 - https://www.google.com.br - online:true
+05/10/2023 14:11:11 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:16 - https://www.alura.com.br - online:true
+05/10/2023 14:11:16 - https://www.google.com.br - online:true
+05/10/2023 14:11:16 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:21 - https://www.alura.com.br - online:true
+05/10/2023 14:11:21 - https://www.google.com.br - online:true
+05/10/2023 14:11:21 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:26 - https://www.alura.com.br - online:true
+05/10/2023 14:11:26 - https://www.google.com.br - online:true
+05/10/2023 14:11:27 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:39 - https://www.alura.com.br - online:true
+05/10/2023 14:11:39 - https://www.google.com.br - online:true
+05/10/2023 14:11:39 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:44 - https://www.alura.com.br - online:true
+05/10/2023 14:11:44 - https://www.google.com.br - online:true
+05/10/2023 14:11:45 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:50 - https://www.alura.com.br - online:true
+05/10/2023 14:11:50 - https://www.google.com.br - online:true
+05/10/2023 14:11:50 - https://www.youtube.com.br - online:true
+05/10/2023 14:11:55 - https://www.alura.com.br - online:true
+05/10/2023 14:11:55 - https://www.google.com.br - online:true
+05/10/2023 14:11:55 - https://www.youtube.com.br - online:true
+05/10/2023 14:12:01 - https://www.alura.com.br - online:true
+05/10/2023 14:12:01 - https://www.google.com.br - online:true
+05/10/2023 14:12:01 - https://www.youtube.com.br - online:true
