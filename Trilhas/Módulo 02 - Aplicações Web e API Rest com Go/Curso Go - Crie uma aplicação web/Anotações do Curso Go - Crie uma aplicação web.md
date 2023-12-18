@@ -20,3 +20,14 @@
     - **routes:** Local onde ficam as configurações de rotas da aplicação
     - **templates:** Local onde ficam as páginas web da aplicação
 
+## 4.0 Deletando produtos e partials
+
+- Criação da rota de Delete com pop-up com JS.
+
+- Partials: Quebra de pequenas partes de HTML para modularizar o código, facilitando manutenções.
+
+    - Para indicar um conteúdo de uma partial o documento .html começa com _. Ex.: _head.html
+
+## 5.0 Atualizando e editando produtos
+
+- Para atualizar são criadas duas funçoes/rotas, uma para trazer os dados nos campos correspondentes e outra pra atualizar no banco.
