@@ -18,11 +18,11 @@
 ## Aplicações Web e API Rest com Go
 
 ### GORM ORM - Mapeamento de objeto relacional em Go
-[Artigo]()
+[Artigo](https://encurtador.com.br/diowH)
 
 
 ## Validações e testes com Go
 
 ### Gin Swagger: documentando API feita com o Gin Framework
 
-- 
+[Artigo]()
