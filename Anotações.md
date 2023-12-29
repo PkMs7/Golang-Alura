@@ -25,4 +25,4 @@
 
 ### Gin Swagger: documentando API feita com o Gin Framework
 
-[Artigo]()
+[Alura+]()

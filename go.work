@@ -1,3 +1,5 @@
 go 1.21.5
 
+use ./Repositorios/appWeb
 use ./Repositorios/apiGoRest
+use ./Repositorios/apiGoRestGin

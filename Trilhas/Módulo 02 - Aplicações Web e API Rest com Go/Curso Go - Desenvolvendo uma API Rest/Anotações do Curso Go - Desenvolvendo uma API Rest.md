@@ -16,7 +16,9 @@
 12. Criar o docker-compose base da aplicação (usar o comando docker-compose up)
 13. Configurar o Servidor na imagem PG Admin (ver o local do host: docker-compose exec postgres sh depois hostmame -i)
 14. Configurar o ORM do Go (https://gorm.io/)
-15. Codificar o CRUD com o ORM
+15. configurar o driver do banco utilizado (gorm.io/driver/postgres)
+16. Codificar o CRUD com o ORM
+17. Ajustar permissões de integração de rotas com o front (CORS)
 
 ## 1.0 Json, Request, Response e Go
 
