@@ -25,4 +25,4 @@
 
 ### Gin Swagger: documentando API feita com o Gin Framework
 
-[Alura+]()
+[Alura+](https://cursos.alura.com.br/extra/alura-mais/gin-swagger-documentando-api-feita-com-o-gin-framework-c1391)

@@ -68,6 +68,11 @@ func CriarAluno(c *gin.Context) {
 			"error": err.Error()})
 		return
 	}
+	if err := models.ValidaDadosDeAluno(&aluno); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{
+			"error": err.Error()})
+		return
+	}
 	database.DB.Create(&aluno)
 	c.JSON(http.StatusOK, aluno)
 
@@ -79,6 +84,11 @@ func EditarAluno(c *gin.Context) {
 	id := c.Params.ByName("id")
 	database.DB.First(&aluno, id)
 	if err := c.ShouldBindJSON(&aluno); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{
+			"error": err.Error()})
+		return
+	}
+	if err := models.ValidaDadosDeAluno(&aluno); err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{
 			"error": err.Error()})
 		return
@@ -96,4 +106,16 @@ func ExcluirAluno(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"data": "Aluno Deletado com sucesso"})
 
+}
+
+func ExibePaginaIndex(c *gin.Context) {
+	var alunos []models.Aluno
+	database.DB.Find(&alunos)
+	c.HTML(http.StatusOK, "index.html", gin.H{
+		"alunos": alunos,
+	})
+}
+
+func RotaNaoEncontrada(c *gin.Context) {
+	c.HTML(http.StatusNotFound, "notFound.html", nil)
 }
